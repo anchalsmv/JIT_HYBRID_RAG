@@ -1,0 +1,10 @@
+Python is a popular programming language for machine learning.
+ElasticSearch is a search engine that provides full-text search capabilities.
+FAISS is a library for efficient similarity search and clustering of dense vectors.
+Streamlit makes it easy to build interactive web apps with Python.
+RAG stands for Retrieval Augmented Generation.
+OpenAI GPT is a large language model used for text generation.
+Document retrieval can improve LLM performance in question answering.
+Semantic search finds similar meaning content using embeddings.
+Keyword search finds exact matches in documents.
+Hybrid search combines multiple retrieval methods for better results.
