@@ -1,0 +1,6 @@
+streamlit
+faiss-cpu
+openai
+sentence-transformers
+elasticsearch
+PyPDF2
